@@ -16,3 +16,15 @@ Projeto acadêmico desenvolvido na disciplina de **Análise de Regressão**, com
 - Linguagem R
 - RStudio
 - R Markdown
+- 
+## Autores
+
+Projeto desenvolvido em grupo por:
+- Nicole de Barros Silva
+- Julia Folgueral
+- Luiz Fernando de Oliveira Pereira
+- Gustavo Coimbra de Souza Teixeira
+
+## Minha contribuição
+
+Participação no desenvolvimento da análise exploratória, na construção do modelo, na interpretação dos resultados e na elaboração do relatório.
