@@ -16,7 +16,7 @@ Projeto acadêmico desenvolvido na disciplina de **Análise de Regressão**, com
 - Linguagem R
 - RStudio
 - R Markdown
-- 
+  
 ## Autores
 
 Projeto desenvolvido em grupo por:
