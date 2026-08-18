@@ -17,6 +17,12 @@ Projeto acadêmico desenvolvido na disciplina de **Análise de Regressão**, com
 - RStudio
 - R Markdown
   
+## Arquivos
+
+- `TF.Rmd` — código e estrutura do relatório em R Markdown;
+- `TF.pdf` — relatório final do projeto;
+- `referencia.bib` — arquivo com as referências bibliográficas utilizadas.
+  
 ## Autores
 
 Projeto desenvolvido em grupo por:
