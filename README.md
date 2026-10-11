@@ -1,4 +1,4 @@
-# Trabalho Final — Análise de Regressão (ME613)
+# Estudo da Relação entre Propriedades Físico-Químicas e Qualidade de Vinhos
 
 Projeto acadêmico desenvolvido na disciplina **ME613 — Análise de Regressão**, da Universidade Estadual de Campinas (UNICAMP). O trabalho investiga a relação entre propriedades físico-químicas e a qualidade de vinhos por meio de modelos de regressão linear múltipla.
 
